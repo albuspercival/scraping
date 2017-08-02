@@ -3,7 +3,6 @@ import re
 from datetime import datetime
 import json
 import scrapers
-import blog_scrapers
 import site_resources
 import xml.etree.ElementTree as ET
 import requests
